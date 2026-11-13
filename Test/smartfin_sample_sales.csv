@@ -1,0 +1,13 @@
+sale_date,product_id,product_name,category,quantity,unit_selling_price,unit_cost_price,discount,sales_channel
+2025-01-05,P001,Wireless Mouse,Electronics,12,650,400,0,Online
+2025-01-12,P002,Keyboard,Electronics,8,1200,780,200,Store
+2025-01-20,P003,Notebook Pack,Stationery,25,150,85,0,Store
+2025-02-03,P001,Wireless Mouse,Electronics,15,650,400,100,Online
+2025-02-14,P002,Keyboard,Electronics,10,1200,780,0,Online
+2025-02-22,P003,Notebook Pack,Stationery,30,150,85,150,Store
+2025-03-04,P001,Wireless Mouse,Electronics,18,650,400,0,Online
+2025-03-11,P002,Keyboard,Electronics,11,1200,780,100,Store
+2025-03-25,P003,Notebook Pack,Stationery,28,150,85,0,Online
+2025-04-02,P001,Wireless Mouse,Electronics,20,650,400,100,Store
+2025-04-16,P002,Keyboard,Electronics,14,1200,780,0,Online
+2025-04-26,P003,Notebook Pack,Stationery,35,150,85,200,Store
